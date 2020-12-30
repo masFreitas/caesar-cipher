@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar.dll
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/bin/Debug/netcoreapp3.1/CriptoCesar.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.dll
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/CriptoCesar/obj/Debug/netcoreapp3.1/CriptoCesar.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\bin\Debug\netcoreapp3.1\CriptoCesar.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\CriptoCesar\obj\Debug\netcoreapp3.1\CriptoCesar.genruntimeconfig.cache
